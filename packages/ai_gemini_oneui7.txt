@@ -1,0 +1,13 @@
+# Lista de pacotes para remover/desativar recursos Galaxy AI e Google Gemini (OneUI 7.0)
+# Esta lista visa desativar funcionalidades de IA da Samsung e Google.
+# A remoção completa pode não ser possível devido à integração profunda no sistema.
+
+com.google.android.apps.aiwallpapers
+com.google.android.apps.bard
+com.samsung.android.visionintelligence
+com.samsung.android.smartsuggestions
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.wakeup
+com.samsung.android.bixbyvision.framework
+
+

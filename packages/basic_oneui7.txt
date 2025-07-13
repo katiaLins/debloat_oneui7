@@ -1,0 +1,41 @@
+# Lista de pacotes para debloat Basic (OneUI 7.0)
+# Esta lista remove apenas o bloatware mais óbvio e seguro, mantendo a maioria das funcionalidades Samsung e Google.
+# Permite o uso de contas Samsung e recursos Galaxy AI.
+
+com.facebook.appmanager
+com.facebook.katana
+com.facebook.services
+com.facebook.system
+com.microsoft.appmanager
+com.microsoft.skydrive
+com.samsung.android.app.omcagent
+com.samsung.android.app.spage
+com.samsung.android.app.tips
+com.samsung.android.ardrawing
+com.samsung.android.aremoji
+com.samsung.android.aremojieditor
+com.samsung.android.arzone
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.wakeup
+com.samsung.android.bixbyvision.framework
+com.samsung.android.game.gamehome
+com.samsung.android.game.gametools
+com.samsung.android.game.gos
+com.samsung.android.kidsinstaller
+com.samsung.android.tvplus
+com.samsung.android.visionintelligence
+com.samsung.android.wallpaper.magician
+com.samsung.petservice
+com.samsung.videoscan
+com.sec.android.app.billing
+com.sec.android.app.desktoplauncher
+com.sec.android.app.dexonpc
+com.sec.android.app.kidshome
+com.sec.android.app.sbrowser
+com.sec.android.app.vepreload
+com.sec.android.desktopmode.uiservice
+com.sec.android.dexsystemui
+com.sec.android.mimage.avatarstickers
+com.sec.penup
+
+
